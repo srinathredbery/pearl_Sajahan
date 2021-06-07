@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pearl_Sajahan/static/css/main.300cfbb2.chunk.css",
+    "main.js": "/pearl_Sajahan/static/js/main.51d378af.chunk.js",
+    "main.js.map": "/pearl_Sajahan/static/js/main.51d378af.chunk.js.map",
+    "runtime-main.js": "/pearl_Sajahan/static/js/runtime-main.a13ad95d.js",
+    "runtime-main.js.map": "/pearl_Sajahan/static/js/runtime-main.a13ad95d.js.map",
+    "static/css/2.fb5a18e3.chunk.css": "/pearl_Sajahan/static/css/2.fb5a18e3.chunk.css",
+    "static/js/2.4671bd74.chunk.js": "/pearl_Sajahan/static/js/2.4671bd74.chunk.js",
+    "static/js/2.4671bd74.chunk.js.map": "/pearl_Sajahan/static/js/2.4671bd74.chunk.js.map",
+    "static/js/3.76cc7b2b.chunk.js": "/pearl_Sajahan/static/js/3.76cc7b2b.chunk.js",
+    "static/js/3.76cc7b2b.chunk.js.map": "/pearl_Sajahan/static/js/3.76cc7b2b.chunk.js.map",
+    "index.html": "/pearl_Sajahan/index.html",
+    "static/css/2.fb5a18e3.chunk.css.map": "/pearl_Sajahan/static/css/2.fb5a18e3.chunk.css.map",
+    "static/css/main.300cfbb2.chunk.css.map": "/pearl_Sajahan/static/css/main.300cfbb2.chunk.css.map",
+    "static/js/2.4671bd74.chunk.js.LICENSE.txt": "/pearl_Sajahan/static/js/2.4671bd74.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/pearl_Sajahan/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a13ad95d.js",
+    "static/css/2.fb5a18e3.chunk.css",
+    "static/js/2.4671bd74.chunk.js",
+    "static/css/main.300cfbb2.chunk.css",
+    "static/js/main.51d378af.chunk.js"
+  ]
+}
